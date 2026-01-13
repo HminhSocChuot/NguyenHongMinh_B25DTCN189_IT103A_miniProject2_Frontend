@@ -10,6 +10,8 @@
     background-color: #fed7aa;
     text-align: center;
     color: #92400e;
+    text-decoration: none;
+    display: block;
 }
 .image {
     text-align: center;
@@ -25,4 +27,8 @@
 body {
     background-color: #fff7ed;
     font-family:  cursive
+}
+ol a {
+    text-decoration: none;
+    display: block;
 }
